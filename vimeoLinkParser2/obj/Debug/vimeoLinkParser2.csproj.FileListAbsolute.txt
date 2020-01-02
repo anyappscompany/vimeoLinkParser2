@@ -1,0 +1,6 @@
+F:\Visual Studio\Projects\vimeoLinkParser2\vimeoLinkParser2\bin\Debug\vimeoLinkParser2.exe.config
+F:\Visual Studio\Projects\vimeoLinkParser2\vimeoLinkParser2\bin\Debug\vimeoLinkParser2.exe
+F:\Visual Studio\Projects\vimeoLinkParser2\vimeoLinkParser2\bin\Debug\vimeoLinkParser2.pdb
+F:\Visual Studio\Projects\vimeoLinkParser2\vimeoLinkParser2\obj\Debug\vimeoLinkParser2.csprojResolveAssemblyReference.cache
+F:\Visual Studio\Projects\vimeoLinkParser2\vimeoLinkParser2\obj\Debug\vimeoLinkParser2.exe
+F:\Visual Studio\Projects\vimeoLinkParser2\vimeoLinkParser2\obj\Debug\vimeoLinkParser2.pdb
